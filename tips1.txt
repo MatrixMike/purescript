@@ -3,3 +3,9 @@ Stack has been installed to: /usr/local/bin/stack
 WARNING: '/home/mikeh/.local/bin' is not on your PATH.
     For best results, please add it to the beginning of PATH in your profile.
 
+
+remember to use admin for the commands herein where necessary
+https://github.com/purescript/documentation/blob/master/guides/PSCi.md
+
+Fri 07 Jul 2017 19:52:06 AEST 
+
