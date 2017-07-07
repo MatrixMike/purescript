@@ -1,0 +1,5 @@
+Stack has been installed to: /usr/local/bin/stack
+
+WARNING: '/home/mikeh/.local/bin' is not on your PATH.
+    For best results, please add it to the beginning of PATH in your profile.
+
