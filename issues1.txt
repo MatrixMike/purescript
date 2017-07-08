@@ -1,0 +1,2 @@
+If it has been fixed then what is the entry point for installing PS on Linux (Ubuntu or Mint etc) ? My searches for guides to install have yielded misleading and contradicting directions. 
+Sat 08 Jul 2017 13:31:54 AEST 

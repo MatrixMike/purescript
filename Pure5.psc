@@ -36,6 +36,10 @@ ten = 10
 --diagonal :: Number -> Number -> Number
 --diagonal w h = sqrt (w * w + h * h)
 
+{- times :: Number
+times x y = (x * y)
+-}
+
 {- globals :: Array Args.Option
 globals = [
   Args.option "bowerFile" ["--bower-file", "-b"] Type.file
@@ -55,4 +59,5 @@ globals = [
   ]
 
 -}
-
+  for_ (10 .. 1) \n -> log (show n <> "...")
+  
