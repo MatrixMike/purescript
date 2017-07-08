@@ -19,14 +19,19 @@ type Entry =
 
 --showAddress :: Address -> String
 --showAddress addr = addr.street <> ", " <> addr.city <> ", " <> addr.state
+
 multiples :: Int
 multiples = 8
 
-main  
+--main  
 --log "Hello, World!"
 --multiples =  (\n -> mod n 3 == 0 || mod n 5 == 0) ns
-  nine = 9
---ten = 10
+nine :: Int
+nine = 9
+
+ten :: Int
+ten = 10
+
 --diagonal :: Number -> Number -> Number
 --diagonal w h = sqrt (w * w + h * h)
 
