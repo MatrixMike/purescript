@@ -3,7 +3,9 @@
 var ten = 10;
 var nine = 9;
 var multiples = 8;
+var carName = "Volvo";
 module.exports = {
+    carName: carName, 
     multiples: multiples, 
     nine: nine, 
     ten: ten

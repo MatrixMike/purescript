@@ -24,6 +24,9 @@ type Entry =
 multiples :: Int
 multiples = 8
 
+carName :: String
+carName = "Volvo"
+
 --main  
 --log "Hello, World!"
 --multiples =  (\n -> mod n 3 == 0 || mod n 5 == 0) ns
@@ -33,6 +36,7 @@ nine = 9
 ten :: Int
 ten = 10
 
+--sum = ten + nine
 --diagonal :: Number -> Number -> Number
 --diagonal w h = sqrt (w * w + h * h)
 
@@ -59,5 +63,5 @@ globals = [
   ]
 
 -}
-  for_ (10 .. 1) \n -> log (show n <> "...")
+--  for_ (10 .. 1) \n -> log (show n <> "...")
   
