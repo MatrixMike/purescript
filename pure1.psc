@@ -1,11 +1,12 @@
 module Main where
 
 import Prelude
+
 import Control.Monad.Eff.Console (log)
+import Data.Array ((..))
+import Data.Foldable (for_)
 --import TryPureScript
 
-greet :: String -> String
-greet name = "Hello, " <> name <> "!"
-
 main = render =<< withConsole do
-  log (greet "World")
+  for_ (10 .. 1) \n -> log (show n <> "...")
+  log "Lift off!"
