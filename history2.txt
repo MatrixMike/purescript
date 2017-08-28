@@ -1,0 +1,1000 @@
+ 1069  git status
+ 1070  pulp
+ 1071  git status
+ 1072  git pull
+ 1073  cd ..
+ 1074  git status
+ 1075  git pull
+ 1076  ifconfig 
+ 1077  pulp
+ 1078  sudo shutdown -r now
+ 1079  xfburn 
+ 1080  ifconfig 
+ 1081  ping 10.0.0.41
+ 1082  putty &
+ 1083  git pull
+ 1084  ls -lctrh
+ 1085  cd ..
+ 1086  ls -lctrh
+ 1087  rm *.o *.hi
+ 1088  ls -lctrh
+ 1089  ./backwards 
+ 1090  ls -lctrh
+ 1091  cd /home/mikeh/hindent/.stack-work/install/x86_64-linux/lts-6.10/7.10.3/bin
+ 1092  ls -lc
+ 1093  ./hindent ~/line-size/Main.hs 
+ 1094  git clone https://github.com/MatrixMike/hindent.git
+ 1095  cd hindent/
+ 1096  ls -lctrh
+ 1097  stack build
+ 1098  git status
+ 1099  stack config set system-ghc --global true
+ 1100  git status
+ 1101  stack build
+ 1102  cd ~/
+ 1103  git clone https://github.com/MatrixMike/csv-conduit.git
+ 1104  cd csv-conduit/
+ 1105  ls -lctrh
+ 1106  stack build
+ 1107  stack init
+ 1108  stack build
+ 1109  stack sdist
+ 1110  tree
+ 1111  stack test
+ 1112  git status
+ 1113  gitk &
+ 1114  ls -lctrh
+ 1115  stack build
+ 1116  stack clean
+ 1117  stack build
+ 1118  ls -lctrh
+ 1119  cat README.md 
+ 1120  git pull
+ 1121  ls -lctrh
+ 1122  cd ~/line-size/
+ 1123  git pull
+ 1124  stack build
+ 1125  ls -lctrh
+ 1126  git status
+ 1127  stack sdist
+ 1128  git status
+ 1129  ls -lctrh
+ 1130  stack clean
+ 1131  stack build
+ 1132  git status
+ 1133  ls -lctrh
+ 1134  git status
+ 1135  stack clean
+ 1136  stack build
+ 1137  git status
+ 1138  git add Main.hs 
+ 1139  git commit -m "after hlint tip"
+ 1140  git push
+ 1141  cd /home/mikeh/csv-conduit/.stack-work/install/x86_64-linux/lts-9.0/8.0.2/lib/x86_64-linux-ghc-8.0.2/csv-conduit-0.6.7-2OUiF87IbG2Ig5BQqPnWlB
+ 1142  ls -lctrh
+ 1143  cd /home/mikeh/csvfileread/.stack-work/install/x86_64-linux/lts-9.0/8.0.2/bin
+ 1144  ls -lctrh
+ 1145  ./csvfileread-exe 
+ 1146  ls -lctrh
+ 1147  ./csvfileread-exe 
+ 1148  cd ~/
+ 1149  stack new csvfileread
+ 1150  cd csvfileread/
+ 1151  tree
+ 1152  stack build
+ 1153  tree
+ 1154  locate *.csv
+ 1155  cat /home/mikeh/CSV/CSVData.csv
+ 1156  stack build
+ 1157  stack clean
+ 1158  stack build
+ 1159  tree
+ 1160  gpredict
+ 1161  cd ~/
+ 1162  mkdir gpredict
+ 1163  cd gpredict
+ 1164  mv ~/Downloads/gpredict-1.3.tar.gz .
+ 1165  tar -xvf gpredict-1.3.tar.gz 
+ 1166  ls -lctrh
+ 1167  cd gp
+ 1168  cd gpredict-1.3/
+ 1169  ls -lctrh
+ 1170  ./autogen.sh 
+ 1171  make
+ 1172  cat README 
+ 1173  make install
+ 1174  cd ~/
+ 1175  cd gpredict/
+ 1176  ls -lctrh
+ 1177  cd gpredict-1.3/
+ 1178  sudo make install
+ 1179  git pull
+ 1180  ls -lctrh
+ 1181  stack install
+ 1182  stack clean
+ 1183  stack install
+ 1184  ls -lctrh
+ 1185  ./libtool --help
+ 1186  ./libtool 
+ 1187  ./libtool compile
+ 1188  libtool --help --mode=MODE
+ 1189  ./libtool --help --mode=MODE
+ 1190  ./libtool --help
+ 1191  ./libtool compile
+ 1192  ls -lctrh
+ 1193  cd ~/Haskell/
+ 1194  ls -lctrh
+ 1195  cd learnyouahaskell/
+ 1196  ls -lctrh
+ 1197  git status
+ 1198  git add output7.hs output8.hs 
+ 1199  git status
+ 1200  git commit -m "after loosing these files"
+ 1201  git push
+ 1202  git pull
+ 1203  git status
+ 1204  git commit -m "fix up"
+ 1205  git add args1.hs
+ 1206  stack clean 
+ 1207  stack install
+ 1208  stack path
+ 1209  stack exec env
+ 1210  stack 
+ 1211  stack dot
+ 1212  ls -lctrh
+ 1213  stack dot help
+ 1214  stack  help dot
+ 1215  stack dot 
+ 1216  stack list-dependencies
+ 1217  curl
+ 1218  curl --help
+ 1219  curl --manual
+ 1220  curl --manual | grep -i put
+ 1221  curl --manual | grep -i post
+ 1222  cd /home/mikeh/.stack/programs/x86_64-linux/ghc-8.0.1.temp/ghc-8.0.1/
+ 1223  ls -lctrh
+ 1224  make install
+ 1225  ls -lctrh
+ 1226  ./salmon 
+ 1227  ls -lctrh
+ 1228  ./salmon 
+ 1229  ls -lctrh
+ 1230  ./salmon 
+ 1231  cd ~/LindaMcIver/
+ 1232  evince Start_with_Code_Booklet_Online.pdf 
+ 1233  cd ~/
+ 1234  git clone https://github.com/MatrixMike/hs-fresnel.git
+ 1235  cd hs-fresnel/
+ 1236  ls -lctrh
+ 1237  stack build
+ 1238  gedit &
+ 1239  cd ~/hs-jose/
+ 1240  ls -lctrh
+ 1241  stack build
+ 1242  stack build --install-ghc
+ 1243  cd ~/hs-salmon/
+ 1244  ls -lctrh
+ 1245  gedit &
+ 1246  ls -lctrh
+ 1247  scp salmon.txt mikeh@10.0.0.41:/home/mikeh
+ 1248  ls -lctrh
+ 1249  stack build
+ 1250  stack clean && stack build
+ 1251  ls -lctrh
+ 1252  gedit &
+ 1253  cd ~/pelicans/
+ 1254  ls -lctrh
+ 1255  git init
+ 1256  git status
+ 1257  git add upcomingRides1.txt 
+ 1258  git commit -m "init commit"
+ 1259  git status
+ 1260  git add upcomingRides1.txt 
+ 1261  git commit -m "tidy up 1"
+ 1262  git status
+ 1263  gitk &
+ 1264  git status
+ 1265  git add upcomingRides1.txt 
+ 1266  git commit -m "tidy up 2"
+ 1267  git status
+ 1268  git add upcomingRides1.txt 
+ 1269  git commit -m "tidy up 3"
+ 1270  gitk &
+ 1271  git status
+ 1272  git add upcomingRides1.txt 
+ 1273  git commit -m "tidy up 4"
+ 1274  git status
+ 1275  go
+ 1276  cd ~/
+ 1277  git clone https://github.com/MatrixMike/gvm.git
+ 1278  cd gvm/
+ 1279  git status
+ 1280  ls -lctrh
+ 1281  cat README
+ 1282  bash < <(curl -s -S -L https://raw.githubusercontent.com/moovweb/gvm/master/binscripts/gvm-installer)
+ 1283  gvm install go1
+ 1284  ls -lctrh
+ 1285  cat README
+ 1286  gedit README &
+ 1287  sudo apt-get install curl git mercurial make binutils bison gcc build-essential
+ 1288  git status
+ 1289  git add README 
+ 1290  git commit -m "consolidate apt-get -easier to execute in a single line"
+ 1291  git push
+ 1292  gvm list
+ 1293  ls -lctrh
+ 1294  git pull
+ 1295  gitk &
+ 1296  gedit alex1.txt &
+ 1297  ls -lc
+ 1298  cat upcomingRides1.txt 
+ 1299  cd ~/
+ 1300  mkdir gucharmap
+ 1301  cd gucharmap/
+ 1302  mv ~/Downloads/gucharmap-10.0.0.tar.xz .
+ 1303  ls -lc
+ 1304  tar -xvf gucharmap-10.0.0.tar.xz 
+ 1305  ls -lctrh
+ 1306  cd gucharmap-10.0.0/
+ 1307  ls -lctrh
+ 1308  ./autogen.sh 
+ 1309  make
+ 1310  ls -lctrh
+ 1311  gtkdocize
+ 1312  sudo apt install gtk-doc-tools
+ 1313  ./autogen.sh 
+ 1314  ls -lctrh
+ 1315  ./configure 
+ 1316  make
+ 1317  ls -lctrh
+ 1318  ./missing 
+ 1319  ./install-sh 
+ 1320  ./autogen.sh 
+ 1321  ls -lctrh
+ 1322  cat ChangeLog.README 
+ 1323  make ChangeLog
+ 1324  ./depcomp 
+ 1325  tree
+ 1326  ./autogen.sh 
+ 1327  ls -lctrh
+ 1328  make clean
+ 1329  cd gucharmap/
+ 1330  ls -lctrh
+ 1331  make
+ 1332  cd ..
+ 1333  ls -lctrh
+ 1334  cd pixmaps/
+ 1335  ls -lctrh
+ 1336  make
+ 1337  make  clean
+ 1338  cat Makefile.am 
+ 1339  cd ..
+ 1340  cat Makefile.am 
+ 1341  cd ..
+ 1342  ls -lctrh
+ 1343  cd gucharmap-10.0.0/
+ 1344  ls -lctrh
+ 1345  ./configure make ChangeLog
+ 1346  tree
+ 1347  git init
+ 1348  grep no-lc Makefile.am
+ 1349  grep no-lc Makefile.in
+ 1350  ls -lctrh
+ 1351  ./salmon 
+ 1352  stack --version
+ 1353  cd ~/hs-salmon/
+ 1354  git status
+ 1355  cat salmon.txt 
+ 1356  tree
+ 1357  stack clean && stack build
+ 1358  stack clean && stack install
+ 1359  git pull
+ 1360  ls -lctrh
+ 1361  gedit README.md &
+ 1362  ls -lctrh
+ 1363  git status
+ 1364  stack --version
+ 1365  haskell
+ 1366  sudo apt-get update 
+ 1367  sudo apt-get upgrade 
+ 1368  stack --version
+ 1369  cd ~/hs-concise/
+ 1370  tree
+ 1371  stack --version
+ 1372  stack clean && stack install
+ 1373  cd /home/mikeh/.local/bin
+ 1374  ls -lctrh
+ 1375  ./example 
+ 1376  stack clean && stack install
+ 1377  stack install
+ 1378  stack init
+ 1379  ls -lctrh
+ 1380  ./example 
+ 1381  ls -lctrh
+ 1382  cd /home/mikeh/hs-concise/.stack-work/install/x86_64-linux/lts-7.14/8.0.1/lib/x86_64-linux-ghc-8.0.1/concise-0.1.0.0-IkpctY76hcg3UKENSbxcXE
+ 1383  ls -lctrh
+ 1384  df -h
+ 1385  stack --version
+ 1386  stack upgrade
+ 1387  stack --version
+ 1388  cd ~/
+ 1389  git clone https://github.com/MatrixMike/Linux-tricks-and-tips.git
+ 1390  cd Linux-tricks-and-tips/
+ 1391  cat tips2.txt 
+ 1392  stack --version
+ 1393  cd ~/
+ 1394  gedit .profile &
+ 1395  cd ~/Haskell/
+ 1396  ls -lc
+ 1397  git pull
+ 1398  git status
+ 1399  git add CubeOld.hs 
+ 1400  git commit -m "sync and tidy"
+ 1401  git rm learnyouahaskell/output7.hs 
+ 1402  git status
+ 1403  git pull
+ 1404  git push
+ 1405  git pull
+ 1406  git status
+ 1407  cd learnyouahaskell/
+ 1408  ls -lctrh
+ 1409  stack --version
+ 1410  echo $PATH
+ 1411  stack --version
+ 1412  ls -lc
+ 1413  ./salmon 
+ 1414  ./example 
+ 1415  ./example --help
+ 1416  ls -lc
+ 1417  stack build
+ 1418  stack clean && stack build && stack sdist
+ 1419  git status
+ 1420  git pull
+ 1421  gedit & 
+ 1422  stack clean && stack build && stack sdist
+ 1423  git status
+ 1424  git add concise.cabal 
+ 1425  git commit -m "recommended by build"
+ 1426  git push 
+ 1427  cal
+ 1428  cd ~/
+ 1429  ls -lc
+ 1430  cd ~/
+ 1431  mkdir pelicans
+ 1432  cd pelicans/
+ 1433  gedit  dates1.txt &
+ 1434  ls -lc
+ 1435  cat dates1.txt 
+ 1436  cd ~/clojure18/clojure-1.8.0/
+ 1437  ls -lctrh
+ 1438  cd ~/
+ 1439  cd /media/mikeh/mikeSpace/
+ 1440  ls -lc
+ 1441  git clone https://github.com/MatrixMike/clojure.git
+ 1442  cd clojure/
+ 1443  ls -lc
+ 1444  ls -lctrh
+ 1445  /media/mikeh/mikeSpace/cd pelicans/
+ 1446  ls -lctrh
+ 1447  cd pelicans/
+ 1448  ls -lctrh
+ 1449  lein
+ 1450  tree
+ 1451  echo $PATH
+ 1452  tree
+ 1453  stack build
+ 1454  git status
+ 1455  tree
+ 1456  ls -lctrh
+ 1457  stack test
+ 1458  git var -l
+ 1459  git pull
+ 1460  ls -lctrh
+ 1461  cat README.rst 
+ 1462  gedit tips2.txt &
+ 1463  git status
+ 1464  stack --version && stack build && stack install && stack sdist && stack test
+ 1465  stack --version && stack clean && stack build && stack install && stack sdist && stack test
+ 1466  git status
+ 1467  stack --version && stack clean && stack build && stack install && stack sdist && stack test
+ 1468  git status
+ 1469  git add tips2.txt 
+ 1470  git commit -m "try these"
+ 1471  git push
+ 1472  git status
+ 1473  ls -lctrh
+ 1474  stack 
+ 1475  stack  upgrade
+ 1476  echo $PATH
+ 1477  stack --version 
+ 1478  ls -lctrh
+ 1479  stack --version && stack clean && stack build && stack install && stack sdist && stack test
+ 1480  git status
+ 1481  gitk &
+ 1482  git var -l
+ 1483  cd ~/csv-conduit/
+ 1484  tree
+ 1485  git status
+ 1486  stack --version && stack clean && stack build && stack install && stack sdist && stack test
+ 1487  git status
+ 1488  cd ~.
+ 1489  ls -lc
+ 1490  cd ical/
+ 1491  ls -lc
+ 1492  tree
+ 1493  stack --version 
+ 1494  stack --version && stack clean && stack build && stack install && stack sdist && stack test
+ 1495  ical-org 
+ 1496  stack --version && stack clean && stack build && stack install && stack sdist && stack test
+ 1497  salmon 
+ 1498  echo $PATH
+ 1499  stack --version && stack clean && stack build && stack install && stack sdist && stack test
+ 1500  git status
+ 1501  cat tips2.txt 
+ 1502  stack --version && stack clean && stack build && stack install && stack sdist && stack test
+ 1503  git status
+ 1504  cat tips2.txt 
+ 1505  git add tips2.txt && git commit -m "more help"
+ 1506  git push
+ 1507  putty
+ 1508  git status
+ 1509  git push
+ 1510  git pull
+ 1511  git rm output8.hs 
+ 1512  git status
+ 1513  cd ..
+ 1514  git status
+ 1515  git add learnyouahaskell/output8a.hs
+ 1516  git status
+ 1517  cat CubeOld.hs 
+ 1518  git add CubeOld.hs 
+ 1519  git status
+ 1520  git commit -m "revisited tests"
+ 1521  git status
+ 1522  git push
+ 1523  git pull
+ 1524  ls -lctrh
+ 1525  rm backwards
+ 1526  rm backwards.o
+ 1527  rm backwards.hi
+ 1528  ls -lctrh
+ 1529  git status
+ 1530  git pull
+ 1531  git status
+ 1532  git add learnyouahaskell/output9.hs
+ 1533  git commit -m "revisited tests2"
+ 1534  git pull
+ 1535  ls learnyouahaskell/output9  -lc
+ 1536  ls learnyouahaskell/output9.*  -lc
+ 1537  learnyouahaskell/output9
+ 1538  rm learnyouahaskell/output9
+ 1539  git status
+ 1540  git pull
+ 1541  ls -lctrh
+ 1542  cd learnyouahaskell/
+ 1543  ls -lctrh
+ 1544  rm *.o
+ 1545  rm *.hi
+ 1546  ls -lctrh
+ 1547  git push
+ 1548  git status
+ 1549  ls -lctrh
+ 1550  ls output*.*
+ 1551  ls output*.*  -lc
+ 1552  ls output*  -lc
+ 1553  rm output7 
+ 1554  rm output8
+ 1555  rm output9
+ 1556  rm output8a
+ 1557  ls -lctrh
+ 1558  rm outputA
+ 1559  ls -lctrh
+ 1560  rm shortLinesOnly
+ 1561  ls -lctrh
+ 1562  git status
+ 1563  git rm output9
+ 1564  git status
+ 1565  git commit -m "tidy up a stuff up?"
+ 1566  git push
+ 1567  ls -lctrh
+ 1568  ./output5 
+ 1569  ls -lctrh
+ 1570  ./output5 
+ 1571  rm *.o
+ 1572  ls -lctrh
+ 1573  cat output5.hs 
+ 1574  hindent output.hs
+ 1575  git pull
+ 1576  ls -lctrh
+ 1577  cat output5.hs 
+ 1578  ./output5 
+ 1579  ls -lctrh
+ 1580  git status
+ 1581  git add output5.hs && git commit -m "nested maps"
+ 1582  ./output5 
+ 1583  git add output5.hs && git commit -m "nested maps2"
+ 1584  git status
+ 1585  ./output5 
+ 1586  git status
+ 1587  git add output5.hs && git commit -m "nested maps3"
+ 1588  hindent output5.hs
+ 1589  ./output5 
+ 1590  git status
+ 1591  git add output5.hs && git commit -m "nested maps4"
+ 1592  git status
+ 1593  git push
+ 1594  hindent output3.hs 
+ 1595  ls -lctrh
+ 1596  ./outputA
+ 1597  hindent outputA.hs 
+ 1598  ./outputA    add
+ 1599  ./outputA    add   one
+ 1600  ls -lctrh
+ 1601  ./outputA  mjh1.txt  add   one
+ 1602  ./outputA   add   one   mjh1.txt
+ 1603  ls -lctrh
+ 1604  cat one 
+ 1605  ./outputA   add   one   someData
+ 1606  cat one 
+ 1607  ./outputA   view   one  
+ 1608  ./outputA   delete   one   mjh1.txt
+ 1609  ./outputA   delete      mjh1.txt
+ 1610  ./outputA   delete  one    mjh1.txt   
+ 1611  ./outputA   view   one  
+ 1612  ./outputA   remove  one    mjh1.txt   
+ 1613  ./outputA   view   one  
+ 1614  cat one 
+ 1615  ./outputA   remove  one    mjh1.
+ 1616  ./outputA   add   one   someMoreData
+ 1617  ./outputA   view   one  
+ 1618  ./outputA   remove  one    someData
+ 1619  ./outputA   view   one  
+ 1620  ./outputA   add   one   someMoreData2
+ 1621  ./outputA   view   one  
+ 1622  ./outputA   remove  one    someData
+ 1623  ./outputA   add   one   someMoreData3
+ 1624  ./outputA   view   one  
+ 1625  cat one 
+ 1626  ./outputA   remove  one    2
+ 1627  cat one 
+ 1628  ./outputA   remove  one    2
+ 1629  ./outputA   view   one  
+ 1630  history 
+ 1631  ./outputA   add   one   someMoreData4
+ 1632  ./outputA   view   one  
+ 1633  ./outputA   remove  one    0
+ 1634  ./outputA   view   one  
+ 1635  git status
+ 1636  ls -lca
+ 1637  git status
+ 1638  git add output1.hs output3.hs outputA.hs 
+ 1639  git status
+ 1640  git commit -m "hlint tests and file handle examples"
+ 1641  git status
+ 1642  ls -lc
+ 1643  ./outputB 
+ 1644  git status
+ 1645  git add outputB.hs && git commit -m "lists experiments1"
+ 1646  git status
+ 1647  git add outputA.hs && git commit -m "lists experiments2"
+ 1648  git status
+ 1649  ./outputB 
+ 1650  git status
+ 1651  git add outputB.hs && git commit -m "lists experiments3"
+ 1652  git status
+ 1653  rm temp*
+ 1654  git status
+ 1655  ls output*
+ 1656  git status
+ 1657  git push
+ 1658  ./outputB 
+ 1659  hlint --version
+ 1660  hindent --version
+ 1661  git status
+ 1662  git add outputB.hs && git commit -m "lists experiments4"
+ 1663  git status
+ 1664  ./outputB 
+ 1665  git add outputB.hs && git commit -m "lists experiments5"
+ 1666  gitk &
+ 1667  ./outputB 
+ 1668  git status
+ 1669  git add outputB.hs && git commit -m "lists experiments6"
+ 1670  git status
+ 1671  git push
+ 1672  ls -lctrh
+ 1673  ./capslocker 
+ 1674  hlint --version
+ 1675  stack --version
+ 1676  cd ~/.local/bin/
+ 1677  ls -lc
+ 1678  ls -lctrh
+ 1679  hlint --version
+ 1680  hindent --version
+ 1681  ls -lctrh
+ 1682  hlint --version >> ~/thisPC/haskell1.txt 
+ 1683  hindent --version >> ~/thisPC/haskell1.txt 
+ 1684  cat ~/thisPC/haskell1.txt 
+ 1685  ls -lctrh
+ 1686  hlint --version 
+ 1687  cat ~/thisPC/haskell1.txt 
+ 1688  ls -lctrh
+ 1689  mv stack stack141
+ 1690  ls -lctrh
+ 1691  ./stack141 --version
+ 1692  mv stack141 stack
+ 1693  ls -lctrh
+ 1694  ghc  --version
+ 1695  ls -lctrh
+ 1696  ping 10.0.0.41
+ 1697  cd ~/printdir/
+ 1698  ls -lc
+ 1699  cd ~/
+ 1700  git clone https://github.com/MatrixMike/print.git
+ 1701  cd print
+ 1702  ls -lc
+ 1703  stack --version && stack clean && stack build && stack install && stack sdist && stack test
+ 1704  Example 
+ 1705  stack --version && stack clean && stack build && stack install && stack sdist && stack test
+ 1706  git status
+ 1707  git add print.cabal 
+ 1708  git commit -m "assumed a typo... ? - but no error now"
+ 1709  git push
+ 1710  cd ~/
+ 1711  git clone https://github.com/MatrixMike/stack.git
+ 1712  cd stack/
+ 1713  ls -lc
+ 1714  stack --version && stack clean && stack build && stack install && stack sdist && stack test
+ 1715  git status
+ 1716  tree
+ 1717  git pull
+ 1718  df -h
+ 1719  cd ~/
+ 1720  mkdir 151
+ 1721  cd 151
+ 1722  git clone https://github.com/commercialhaskell/stack.git
+ 1723  cd stack/
+ 1724  ls -lctrh
+ 1725  git var -l
+ 1726  stack --version && stack clean && stack build && stack install && stack sdist && stack test
+ 1727  stack --version
+ 1728  cd ~/
+ 1729  mkdir hlint
+ 1730  cd hlint/
+ 1731  mv ~/Downloads/hlint-2.0.9.tar.gz .
+ 1732  ls -lc
+ 1733  tar -xvf hlint-2.0.9.tar.gz 
+ 1734  ls -lctrh
+ 1735  cd hlint-2.0.9/
+ 1736  ls -lctrh
+ 1737  stack --version && stack clean && stack build && stack install && stack sdist && stack test
+ 1738  stack init
+ 1739  stack --version && stack clean && stack build && stack install && stack sdist && stack test
+ 1740  cd ~/
+ 1741  cd ~/ical/
+ 1742  stack --version && stack clean && stack build && stack install && stack sdist && stack test
+ 1743  cd ~/Haskell/learnyouahaskell/
+ 1744  git status
+ 1745  git add output8a.hs 
+ 1746  git status
+ 1747  git commit -m "new version of 8"
+ 1748  cd ~/
+ 1749  git clone https://github.com/MatrixMike/hs-fresnel-asn1.git
+ 1750  cd hs-
+ 1751  cd hs-fresnel-asn1/
+ 1752  tree
+ 1753  stack --version && stack clean && stack build && stack install && stack sdist && stack test
+ 1754  cd ~/hindent/
+ 1755  l s-lc
+ 1756  ls -lc
+ 1757  stack --version && stack clean && stack build && stack install && stack sdist && stack test
+ 1758  ls -lc
+ 1759  cd stack/
+ 1760  ls -lc
+ 1761  tree -d
+ 1762  ls -lc
+ 1763  cd src/
+ 1764  ls -lc
+ 1765  stack
+ 1766  grep -i runhaskell
+ 1767  grep --help
+ 1768  grep -i runhaskell *.hs
+ 1769  grep -i runhaskell *.hs  -r
+ 1770  grep -i 'runhaskell' *.hs  -r
+ 1771  ls -lc
+ 1772  ls Path/
+ 1773  grep -i 'runhaskell' Path/*.hs  -r
+ 1774  ls Path/ -lc
+ 1775  cd Path/
+ 1776  ls  -lc
+ 1777  cat Extra.hs 
+ 1778  grep -i 'using' *.hs  -r
+ 1779  grep -i 'upgrade' *.hs  -r
+ 1780  grep -i 'import' *.hs  -r
+ 1781  grep --help
+ 1782  grep -i -r 'import' *.hs  
+ 1783  grep -ir 'import' *.hs  
+ 1784  cd ..
+ 1785  grep -ir 'import' Path/*.hs  
+ 1786  grep -ir 'import' */*.hs  
+ 1787  grep -ir 'upgrade' */*.hs  
+ 1788  stack
+ 1789  grep -ir 'usage' */*.hs  
+ 1790  grep -ir 'Available' */*.hs  
+ 1791  grep -r 'Available' */*.hs  
+ 1792  grep -ir 'runhaskell' */*.hs  
+ 1793  tree
+ 1794  tree -d
+ 1795  cd ..
+ 1796  grep -ir 'runhaskell' */*.hs  
+ 1797  grep -ir 'runhaskell' */*/*.hs  
+ 1798  stack
+ 1799  grep -ir 'list-dependencies' */*/*.hs  
+ 1800  stack build 
+ 1801  stack --version
+ 1802  gedit & 
+ 1803  info
+ 1804  ifconfig 
+ 1805  ping 10.0.0.83
+ 1806  cd ~/Downloads/
+ 1807  ls -lctrh
+ 1808  cd ~/eca/
+ 1809  ls -lctrh
+ 1810  scp *.mp3 mikeh@10.0.0.83/home/mikeh/
+ 1811  scp *.mp3 mikeh@10.0.0.83:/home/mikeh/
+ 1812  cd ~/Haskell/learnyouahaskell/
+ 1813  ls -lctrh
+ 1814  git status
+ 1815  history > ~/thisPC/history6.txt
+ 1816  git status
+ 1817  history | grep add
+ 1818  git add outputB.hs && git commit -m "lists experiments6"
+ 1819  git status
+ 1820  git add capslocker.hs 
+ 1821  git add outputB.hs && git commit -m "lists experiments6"
+ 1822  git status
+ 1823  git push
+ 1824  grep map *.hs
+ 1825  git status
+ 1826  cd ..
+ 1827  grep map *.hs
+ 1828  gitk &
+ 1829  git status
+ 1830  git add Lyndon.hs learnyouahaskell/outputB.hs 
+ 1831  git status
+ 1832  git commit -m "maps"
+ 1833  git status
+ 1834  git add *.hs
+ 1835  git status
+ 1836  git add learnyouahaskell/*.hs
+ 1837  git status
+ 1838  git commit -m "type checking"
+ 1839  git push
+ 1840  cd ~/
+ 1841  ls -lc
+ 1842  cd Hls/
+ 1843  ls -lc
+ 1844  cd ~/
+ 1845  ls -lc
+ 1846  cd hs-salmon/
+ 1847  ls -lc
+ 1848  cat src/Salmon.hs 
+ 1849  cd ~/ical/
+ 1850  stack build
+ 1851  git status
+ 1852  git add .
+ 1853  git status
+ 1854  git commit -m "added compiler option"
+ 1855  git push
+ 1856  git pull
+ 1857  ls -lctrh
+ 1858  ./testColor1 
+ 1859  stack repl
+ 1860  ls -lctrh
+ 1861  ./systemInterOp 
+ 1862  ./systemInterOp    een twee drie
+ 1863  ls -lctrh
+ 1864  mv graph1.h2 graph1.hs
+ 1865  ls -lctrh
+ 1866  git status
+ 1867  git add *.hs
+ 1868  git status
+ 1869  git commit -m "new examples"
+ 1870  git push
+ 1871  git pull
+ 1872  git push
+ 1873  ls -lctrh
+ 1874  rm *.o *.hi
+ 1875  ls -lctrh
+ 1876  touch file.txt
+ 1877  ls -lctrh
+ 1878  rm *.o *.hi
+ 1879  ls -lctrh
+ 1880  git status
+ 1881  ls -lctrh
+ 1882  find . -maxdepth 1 -type f -executable -exec rm {} +
+ 1883  ls -lctrh
+ 1884  git status
+ 1885  cd learnyouahaskell/
+ 1886  find . -maxdepth 1 -type f -executable -exec rm {} +
+ 1887  git status
+ 1888  ls -lctrh
+ 1889  cd ..
+ 1890  git status
+ 1891  ls -lctrh
+ 1892  ls -lc
+ 1893  ls learnyouahaskell/ -lc
+ 1894  cat learnyouahaskell/one 
+ 1895  git status
+ 1896  ls -lctrh
+ 1897  git status
+ 1898  git pull
+ 1899  stack build
+ 1900  cd ~/
+ 1901  git clone https://github.com/MatrixMike/stackHaskelltest.git
+ 1902  cd stackHaskelltest/
+ 1903  stack repl
+ 1904  stack install
+ 1905  stackHaskelltest-exe 
+ 1906  echo $PATH
+ 1907  cd ~/
+ 1908  cat .profile 
+ 1909  stack --version
+ 1910  cd ~/
+ 1911  git clone https://github.com/MatrixMike/proplang.git
+ 1912  cd proplang/
+ 1913  stack build
+ 1914  cabal update
+ 1915  stack build
+ 1916  stack clean && stack build && stack sdist
+ 1917  libglade
+ 1918  sudo apt-get install libglade
+ 1919  sudo apt-get install libglade-2.0
+ 1920  history 
+ 1921  history > history1.txt
+ 1922  stack clean && stack build && stack sdist
+ 1923  sudo apt-get install libglade2-0
+ 1924  sudo apt autoremove
+ 1925  df -h
+ 1926  sudo apt-get install synaptic
+ 1927  synaptic
+ 1928  sudo synaptic
+ 1929  stack clean && stack build && stack sdist
+ 1930  git status
+ 1931  git add proplang.cabal stack.yaml 
+ 1932  git commit -m "tweaks to remove warnings"
+ 1933  git push
+ 1934  stack clean && stack build && stack sdist
+ 1935  git status
+ 1936  git pull
+ 1937  cd ~/stackHaskelltest/
+ 1938  stack clean && stack build && stack sdist
+ 1939  tree
+ 1940  git status
+ 1941  cat .gitig
+ 1942  ls -lca
+ 1943  cat ~/hs-salmon/.gitignore 
+ 1944  cat ~/hs-concise/.gitignore 
+ 1945  cat ~/hs-fresnel/.gitignore 
+ 1946  cd ~/proplang/
+ 1947  cp ~/hs-concise/.gitignore .
+ 1948  git status
+ 1949  git add .gitignore 
+ 1950  git commit -m "needed one of these"
+ 1951  git push
+ 1952  git status
+ 1953  git pull
+ 1954  ls -lctrh
+ 1955  cd PropLang/
+ 1956  ls -lctrh
+ 1957  stack clean && stack build && stack sdist
+ 1958  stack --version
+ 1959  stack clean && stack build && stack sdist && stack install
+ 1960  cd ..
+ 1961  git status
+ 1962  cd ~/Haskell/
+ 1963  git status
+ 1964  cd ~/Linux-tricks-and-tips/
+ 1965  git pull
+ 1966  cat tips2.txt 
+ 1967  ls -lctrh
+ 1968  cat apt1.txt 
+ 1969  cd ~/
+ 1970  ls -lc
+ 1971  cd pelicans/
+ 1972  ls -lc
+ 1973  cat dates1.txt 
+ 1974  ls -lc
+ 1975  ./autogen.sh 
+ 1976  ./configure 
+ 1977  git status
+ 1978  git pull
+ 1979  git status
+ 1980  ls -lctrh
+ 1981  ./Main 
+ 1982  ls -lc
+ 1983  stack clean && stack build && stack sdist && stack install
+ 1984  git status
+ 1985  tree
+ 1986  stack clean && stack build && stack sdist && stack install
+ 1987  git status
+ 1988  git var -l
+ 1989  git status
+ 1990  stack clean && stack build && stack sdist && stack install
+ 1991  git status
+ 1992  git add src/Crypto/JOSE/JWE.hs 
+ 1993  git commit -m "following warning"
+ 1994  git push
+ 1995  ls -lc
+ 1996  stack clean && stack build && stack sdist && stack install
+ 1997  gpredict 
+ 1998  ifconfig 
+ 1999  ping electroteach.com
+ 2000  cd ~/purescript-is-magic/
+ 2001  ls -lc
+ 2002  pulp
+ 2003  history | grep pulp
+ 2004  pulp build
+ 2005  git status
+ 2006  ls -lctrh
+ 2007  tree
+ 2008  cd ~/
+ 2009  git clone https://github.com/MatrixMike/purescriptdev.git
+ 2010  cd purescriptdev/
+ 2011  tree
+ 2012  pulp
+ 2013  pulp build
+ 2014  tree
+ 2015  pulp build Hello.psc 
+ 2016  pulp Hello.psc 
+ 2017  ls -lctrh
+ 2018  cat pure1.psc 
+ 2019  pulp pure1.psc 
+ 2020  pulp build pure1.psc 
+ 2021  pulp build Pure5.psc 
+ 2022  pulp help
+ 2023  pulp build
+ 2024  ls -lctrh
+ 2025  git status
+ 2026  pulp build
+ 2027  tree
+ 2028  cat Hello.psc 
+ 2029  cp Hello.psc Hello.purs
+ 2030  pulp build
+ 2031  pulp build Hello.purs 
+ 2032  purs
+ 2033  purs2
+ 2034  purs2 compile
+ 2035  purs2 compile Hello.purs 
+ 2036  purs2 repl
+ 2037  psci Hello.purs 
+ 2038  git status
+ 2039  ls -lctrh
+ 2040  cat tips1.txt 
+ 2041  cat Pure5.psc 
+ 2042  purs Pure5.psc 
+ 2043  purs2 Pure5.psc 
+ 2044  purs2 build
+ 2045  purs2 Hello.purs 
+ 2046  purs2 Hello.psc 
+ 2047  pulp
+ 2048  pulp build
+ 2049  pulp init
+ 2050  cat bower.json 
+ 2051  pulp init --force
+ 2052  pulp build
+ 2053  ls -lctrh
+ 2054  tree
+ 2055  pulp browserify
+ 2056  ls -lctrh
+ 2057  tree
+ 2058  ls -lctrh
+ 2059  tree output/
+ 2060  cat output/browserify.js 
+ 2061  ls -lctrh
+ 2062  ls test/
+ 2063  ls src/
+ 2064  ls bower_components/
+ 2065  cat bower.json 
+ 2066  git status
+ 2067  history 
+ 2068  history > history2.txt 
